@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "sp21-bcs-037_LAB_TERMINAL",
+    "slug": "sp21-bcs-037_LAB_TERMINAL",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.abc"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.abc_123_a.sp21bcs037_LAB_TERMINAL"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fe20323e-4c94-47b5-aa06-cecbe4d3f744"
+      }
+    }
+  }
+}
