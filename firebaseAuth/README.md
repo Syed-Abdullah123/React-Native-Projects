@@ -61,10 +61,10 @@ Include some screenshots of your app here to give a visual overview. You can upl
 
 The project relies on several libraries and modules. Here are the main dependencies:
 
-- `react`: ^18.0.0
-- `react-native`: ^0.71.0
-- `firebase`: ^9.6.1
-- `react-native-firebase`: ^13.0.1
+- `react`
+- `react-native`
+- `firebase`
+- `react-native-firebase`
 
 You can find the complete list of dependencies in the `package.json` file.
 
@@ -74,7 +74,7 @@ The project uses Firebase Authentication for handling user sign-in and sign-up. 
 
 1. **Firebase Configuration:**
 
-    Configure Firebase in your `firebase.js` file:
+    Configure Firebase in your `firebaseConfig.js` file:
     ```javascript
     import { initializeApp } from 'firebase/app';
     import { getAuth } from 'firebase/auth';
