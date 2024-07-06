@@ -57,12 +57,12 @@ Include some screenshots of your app here to give a visual overview. You can upl
 
 The project relies on several libraries and modules. Here are the main dependencies:
 
-- `react`: ^18.0.0
-- `react-native`: ^0.71.0
-- `react-navigation`: ^6.0.0
-- `react-native-elements`: ^3.4.2
-- `react-redux`: ^8.0.5
-- `redux`: ^4.2.0
+- `react`
+- `react-native`
+- `react-navigation`
+- `react-native-elements`
+- `react-redux`
+- `redux`
 
 You can find the complete list of dependencies in the `package.json` file.
 
