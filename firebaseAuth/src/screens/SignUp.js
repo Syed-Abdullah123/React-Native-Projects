@@ -24,13 +24,6 @@ export default function SignUp({ navigation }) {
         displayName: username,
       });
       setUser({ username, email: userCredential.user.email });
-      navigation.dispatch(
-        CommonActions.reset({
-          index: 0,
-          routes: [{ name: "SignIn" }],
-        })
-      );
-      // console.log(userCredential.user);
     } catch (error) {
       alert(error);
     } finally {
