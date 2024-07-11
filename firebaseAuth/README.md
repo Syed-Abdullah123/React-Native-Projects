@@ -54,12 +54,16 @@ Once the application is up and running, you can register a new account or log in
 This was just a basic app to practice the Firebase Authentication for user's Signup and SignIn.
 
 ### SignUp Screen
-<img src="/UI's/firebase1.jpg" width="200" />
-<img src="/UI's/firebase2.jpg" width="200" />
+<div style="flex-direction: row, gap: 10">
+  <img src="/UI's/firebase1.jpg" width="200" />
+  <img src="/UI's/firebase2.jpg" width="200" />
+</div>
 
 ### SignIn Screen
-<img src="/UI's/firebase3.jpg" width="200" />
-<img src="/UI's/firebase4.jpg" width="200" />
+<div style="flex-direction: row, gap: 10">
+  <img src="/UI's/firebase3.jpg" width="200" />
+  <img src="/UI's/firebase4.jpg" width="200" />
+</div>
 
 ### Home Screen
 <img src="/UI's/firebase5.jpg" width="200" />
