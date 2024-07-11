@@ -123,10 +123,10 @@ A project developed for a lab terminal assignment, showcasing:
   <img src="UI's/Semester-Timer.png" width="200" />
 </div>
 
-### Libraries and Dependencies
+## Libraries and Dependencies
 Below are the major libraries and dependencies used across different projects in this repository:
 
-## Dependencies
+### Dependencies
 
 - [redux](https://redux.js.org/): For state management.
 - [react-redux](https://react-redux.js.org/): Official React bindings for Redux.
