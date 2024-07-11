@@ -11,7 +11,6 @@ This project is a React Native application that demonstrates Firebase Authentica
 - [Dependencies](#dependencies)
 - [Authentication Flow](#authentication-flow)
 - [User Context](#user-context)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -52,10 +51,18 @@ Once the application is up and running, you can register a new account or log in
 
 ## Screenshots
 
-Include some screenshots of your app here to give a visual overview. You can upload images to your repository and reference them like this:
+This was just a basic app to practice the Firebase Authentication for user's Signup and SignIn.
 
-![Login Screen](./assets/screenshots/login.png)
-![Registration Screen](./assets/screenshots/registration.png)
+### SignUp Screen
+<img src="/UI's/firebase1.jpg" width="200" />
+<img src="/UI's/firebase2.jpg" width="200" />
+
+### SignIn Screen
+<img src="/UI's/firebase3.jpg" width="200" />
+<img src="/UI's/firebase4.jpg" width="200" />
+
+### Home Screen
+<img src="/UI's/firebase5.jpg" width="200" />
 
 ## Dependencies
 
@@ -196,10 +203,6 @@ The project uses a `UserContext` to manage and provide the authenticated user's 
     export default HomeScreen;
     ```
 
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions to improve this project, feel free to open an issue or submit a pull request.
-
 ## Acknowledgements
 
 This project would not have been possible without the guidance and tutorials provided by [Code with Beto](https://codewithbeto.dev/). Check out their YouTube channel and website for more resources:
@@ -209,4 +212,4 @@ This project would not have been possible without the guidance and tutorials pro
 
 ## License
 
-This project is completely free to use. :)
+[MIT](https://choosealicense.com/licenses/mit/)
