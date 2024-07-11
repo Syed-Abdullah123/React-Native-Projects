@@ -60,9 +60,9 @@ A project developed for a lab terminal assignment:
 ## Screenshots
 
 ### BakingApp
-![BakingApp Welcome Screen](UI's/mobile.png)
-![BakingApp Home Screen](UI's/mobile (2).png)
-![BakingApp Items Screen](UI's/mobile (3).png)
+![BakingApp Welcome Screen]()
+![BakingApp Home Screen]()
+![BakingApp Items Screen]()
 
 ### Calculator_app
 ![Basic Calculator](screenshots/basic-calculator.png)
@@ -76,20 +76,20 @@ A project developed for a lab terminal assignment:
 ![NikeApp Cart](screenshots/nikeapp-cart.png)
 
 ### UI's
-![E-commerce app Home Screen](UI's/mobile (10).png)
-![E-commerce app Details Screen](UI's/mobile (11).png)
+![E-commerce app Home Screen]()
+![E-commerce app Details Screen]()
 
 ### firebaseAuth
 ![FirebaseAuth Sign-In](screenshots/firebaseauth-signin.png)
 ![FirebaseAuth Sign-Up](screenshots/firebaseauth-signup.png)
 
 ### sp21-bcs-037_LAB_TERMINAL
-![Lab Terminal Splash Screen](UI's/Abdullah_SplashScreen.png)
-![Lab Terminal Sign up Screen](UI's/SignupScreen.png)
-![Lab Terminal Log in Screen](UI's/LoginScreen.png)
-![Lab Terminal Goal Setting Screen](UI's/Abdullah_GoalSettingScreen.png)
-![Lab Terminal History Screen](UI's/Abdullah_StudyHistoryScreen.png)
-![Lab Terminal Timer Screen](UI's/Abdullah_TimerScreen.png)
+![Lab Terminal Splash Screen]()
+![Lab Terminal Sign up Screen]()
+![Lab Terminal Log in Screen]()
+![Lab Terminal Goal Setting Screen]()
+![Lab Terminal History Screen]()
+![Lab Terminal Timer Screen]()
 
 ## Libraries and Dependencies
 Below are the major libraries and dependencies used across different projects in this repository:
