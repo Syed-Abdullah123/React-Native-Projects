@@ -61,6 +61,8 @@ A project developed for a lab terminal assignment:
 
 ### BakingApp
 ![BakingApp Welcome Screen](UI's/mobile.png)
+![BakingApp Welcome Screen](UI's/mobile (2).png)
+![BakingApp Welcome Screen](UI's/mobile (3).png)
 ![BakingApp Home Screen](UI's/mobile (2).png)
 ![BakingApp Items Screen](UI's/mobile (3).png)
 
