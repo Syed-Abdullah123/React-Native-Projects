@@ -71,7 +71,7 @@ A project developed for a lab terminal assignment, showcasing:
 ## Screenshots
 
 ### BakingApp
-<div style="flex-direction: row, gap: 10: background-color: yellow">
+<div style="flex-direction: row, gap: 10, background-color: yellow">
   <img src="UI's/Baking1.png" width="200" />
   <img src="UI's/Baking2.png" width="200" />
   <img src="UI's/Baking3.png" width="200" />
