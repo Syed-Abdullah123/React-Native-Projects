@@ -100,6 +100,8 @@ Below are the major libraries and dependencies used across different projects in
 - `@react-navigation/native`: For handling navigation between screens.
 - `@react-native-async-storage/async-storage`: For persistent storage.
 
+You can find the complete list of dependencies in the `package.json` file of each project.
+
 ## Installation
 
 To run these projects locally, follow these steps:
