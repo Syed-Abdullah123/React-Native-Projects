@@ -1,7 +1,5 @@
 # Calculator App
 
-![Calculator App](https://github.com/Syed-Abdullah123/React-Native-Projects/blob/main/Calculator_app/assets/logo.png)
-
 The Calculator App is a React Native application that offers multiple types of calculators: Basic Calculator, Scientific Calculator, BMI Calculator, and Loan Calculator. This project was developed during the 6th semester as part of a course project, showcasing various features and functionalities of a comprehensive calculator app.
 
 ## Table of Contents
@@ -55,22 +53,22 @@ This will start the development server and you can view the app on an emulator o
 ### Basic Calculator
 
 <div style="flex-direction: row, gap: 10">
-  <img src="/UI's/Calculator1.jpeg" width="200" />
+  <img src="/UI's/calculator1.jpeg" width="200" />
 </div>
 
 ### Scientific Calculator
 
 <div style="flex-direction: row, gap: 10">
-  <img src="/UI's/Calculator2.jpeg" width="200" />
+  <img src="/UI's/calculator2.jpeg" width="200" />
 </div>
 
 ### BMI Calculator
 
-  <img src="/UI's/Calculator3.jpeg" width="200" />
+  <img src="/UI's/calculator3.jpeg" width="200" />
 
 ### Loan Calculator
 
-  <img src="/UI's/Calculator4.jpeg" width="200" />
+  <img src="/UI's/calculator4.jpeg" width="200" />
 
 ## Technologies
 
