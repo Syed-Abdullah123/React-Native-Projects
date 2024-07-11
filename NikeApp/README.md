@@ -10,7 +10,6 @@ This project is a React Native application named "Nike App". It provides a sleek
 - [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
 - [State Management](#state-management)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -158,10 +157,6 @@ The project uses `react-redux` for state management. Here is a brief overview of
 
     export default HomeScreen;
     ```
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions to improve this project, feel free to open an issue or submit a pull request.
 
 ## Acknowledgements
 
