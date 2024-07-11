@@ -48,14 +48,14 @@ npx expo start
 
 <div style="flex-direction: row, gap: 10">
   <img src="/UI's/Baking1.png" width="200" />
-  <img src="UI's/Baking2.png" width="200" />
-  <img src="UI's/Baking3.png" width="200" />
+  <img src="/UI's/Baking2.png" width="200" />
+  <img src="/UI's/Baking3.png" width="200" />
 </div>
 
 <div style="flex-direction: row, gap: 10">
-  <img src="UI's/Baking4.png" width="200" />
-  <img src="UI's/Baking5.png" width="200" />
-  <img src="UI's/Baking6.png" width="200" />
+  <img src="/UI's/Baking4.png" width="200" />
+  <img src="/UI's/Baking5.png" width="200" />
+  <img src="/UI's/Baking6.png" width="200" />
 </div>
 
 
