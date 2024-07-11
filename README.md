@@ -94,11 +94,17 @@ A project developed for a lab terminal assignment:
 ## Libraries and Dependencies
 Below are the major libraries and dependencies used across different projects in this repository:
 
-- `redux`: For state management.
-- `react-redux`: Official React bindings for Redux.
-- `react-native-firebase`: For authentication and database services.
-- `@react-navigation/native`: For handling navigation between screens.
-- `@react-native-async-storage/async-storage`: For persistent storage.
+## Dependencies
+
+- [`redux`](https://redux.js.org/): For state management.
+- [`react-redux`](https://react-redux.js.org/): Official React bindings for Redux.
+- [`react-native-firebase`](https://rnfirebase.io/): For authentication and database services.
+- [`@react-navigation/native`](https://reactnavigation.org/): For handling navigation between screens.
+- [`@react-native-async-storage/async-storage`](https://react-native-async-storage.github.io/async-storage/): For persistent storage.
+- [`react-native-reanimated`](https://docs.swmansion.com/react-native-reanimated/): For creating smooth, powerful, and maintainable animations.
+- [`@expo/vector-icons`](https://docs.expo.dev/guides/icons/): To use customizable vector-icons.
+- [`@reduxjs/toolkit`](https://redux-toolkit.js.org/): The official toolset for efficient Redux development.
+- [`react-native-linear-gradient`](https://github.com/react-native-linear-gradient/react-native-linear-gradient): To create visually appealing backgrounds, buttons, or other UI elements.
 
 You can find the complete list of dependencies in the `package.json` file of each project.
 
