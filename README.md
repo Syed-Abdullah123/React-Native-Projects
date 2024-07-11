@@ -9,7 +9,7 @@ Welcome to my repository showcasing a collection of React Native applications, e
   - [Calculator_app](#calculator_app)
   - [NikeApp](#nikeapp)
   - [UI's](#uis)
-  - [firebaseAuth](#firebaseauth)
+  - [Expo Firebase Authentication](#firebaseauth)
   - [sp21-bcs-037_LAB_TERMINAL](#sp21-bcs-037_lab_terminal)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
@@ -52,7 +52,7 @@ A collection of various User Interface Designs that were created as a practice f
 - **Form Elements**: Includes input fields.
 - **Layouts**: Various screen layouts and navigation patterns.
 
-### firebaseAuth
+### Expo Firebase Authentication
 
 A project demonstrating Firebase authentication integration in React Native:
 
@@ -71,7 +71,8 @@ A project developed for a lab terminal assignment, showcasing:
 ## Screenshots
 
 ### BakingApp
-<div style="flex-direction: row, gap: 10, background-color: yellow">
+
+<div style="flex-direction: row, gap: 10">
   <img src="UI's/Baking1.png" width="200" />
   <img src="UI's/Baking2.png" width="200" />
   <img src="UI's/Baking3.png" width="200" />
@@ -79,23 +80,62 @@ A project developed for a lab terminal assignment, showcasing:
 
 ### Calculator_app
 
-<img src="UI's/Baking2.png" width="200" />
+<div style="flex-direction: row, gap: 10">
+  <img src="UI's/Baking1.png" width="200" />
+  <img src="UI's/Baking2.png" width="200" />
+  <img src="UI's/Baking3.png" width="200" />
+</div>
 
 ### NikeApp
 
-![NikeApp Screenshots](screenshots/nikeapp-screenshots.png)
+<div style="flex-direction: row, gap: 10">
+  <img src="UI's/Baking1.png" width="200" />
+  <img src="UI's/Baking2.png" width="200" />
+  <img src="UI's/Baking3.png" width="200" />
+</div>
 
-### UI's
+### Basic E-commerce App UI
 
-![UI's Screenshots](screenshots/ui-screenshots.png)
+<div style="flex-direction: row, gap: 10">
+  <img src="UI's/E-commerce1.png" width="200" />
+  <img src="UI's/E-commerce2.png" width="200" />
+</div>
 
-### firebaseAuth
+### Expo Firebase Authentication
 
-![firebaseAuth Screenshots](screenshots/firebaseauth-screenshots.png)
+<div style="flex-direction: row, gap: 10">
+  <img src="UI's/Baking1.png" width="200" />
+  <img src="UI's/Baking2.png" width="200" />
+  <img src="UI's/Baking3.png" width="200" />
+</div>
 
 ### sp21-bcs-037_LAB_TERMINAL
 
-![sp21-bcs-037_LAB_TERMINAL Screenshots](screenshots/labterminal-screenshots.png)
+<div style="flex-direction: row, gap: 10">
+  <img src="UI's/UI's/Semester-Splash.png" width="200" />
+  <img src="UI's/UI's/Semester-Signup.png" width="200" />
+  <img src="UI's/UI's/Semester-Login.png" width="200" />
+  <img src="UI's/UI's/Semester-Home.png" width="200" />
+  <img src="UI's/UI's/Semester-Goals.png" width="200" />
+  <img src="UI's/UI's/Semester-History.png" width="200" />
+  <img src="UI's/UI's/Semester-Timer.png" width="200" />
+</div>
+
+### Libraries and Dependencies
+Below are the major libraries and dependencies used across different projects in this repository:
+
+## Dependencies
+
+- [redux](https://redux.js.org/): For state management.
+- [react-redux](https://react-redux.js.org/): Official React bindings for Redux.
+- [react-native-firebase](https://rnfirebase.io/): For authentication and database services.
+- [@react-navigation/native](https://reactnavigation.org/): For handling navigation between screens.
+- [@react-native-async-storage/async-storage](https://react-native-async-storage.github.io/async-storage/): For persistent storage.
+- [react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/): For creating smooth, powerful, and maintainable animations.
+- [@expo/vector-icons](https://docs.expo.dev/guides/icons/): To use customizable vector-icons.
+- [@reduxjs/toolkit](https://redux-toolkit.js.org/): The official toolset for efficient Redux development.
+- [react-native-linear-gradient](https://github.com/react-native-linear-gradient/react-native-linear-gradient): To create visually appealing backgrounds, buttons, or other UI elements.
+  
 You can find the complete list of dependencies in the `package.json` file of each project.
 
 ## Installation
