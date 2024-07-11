@@ -72,11 +72,11 @@ A project developed for a lab terminal assignment, showcasing:
 
 ### BakingApp
 
-![BakingApp Screenshots](<img src="UI's/Baking1.png" width="200" />)
+<img src="UI's/Baking1.png" width="200" />
 
 ### Calculator_app
 
-![Calculator_app Screenshots](<img src="UI's/Baking2.png" width="200" />)
+<img src="UI's/Baking2.png" width="200" />
 
 ### NikeApp
 
