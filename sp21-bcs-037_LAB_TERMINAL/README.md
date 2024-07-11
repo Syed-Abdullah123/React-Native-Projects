@@ -76,6 +76,7 @@ This will start the development server and you can view the app on an emulator o
 ### Timer Screen
 
 <img src="/UI's/Semester-Timer.png" width="200" />
+
 ## Technologies
 
 - **React Native**: For building the mobile application.
