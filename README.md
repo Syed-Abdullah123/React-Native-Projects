@@ -112,13 +112,13 @@ A project developed for a lab terminal assignment, showcasing:
 ### sp21-bcs-037_LAB_TERMINAL
 
 <div style="flex-direction: row, gap: 10">
-  <img src="UI's/UI's/Semester-Splash.png" width="200" />
-  <img src="UI's/UI's/Semester-Signup.png" width="200" />
-  <img src="UI's/UI's/Semester-Login.png" width="200" />
-  <img src="UI's/UI's/Semester-Home.png" width="200" />
-  <img src="UI's/UI's/Semester-Goals.png" width="200" />
-  <img src="UI's/UI's/Semester-History.png" width="200" />
-  <img src="UI's/UI's/Semester-Timer.png" width="200" />
+  <img src="UI's/Semester-Splash.png" width="200" />
+  <img src="UI's/Semester-Signup.png" width="200" />
+  <img src="UI's/Semester-Login.png" width="200" />
+  <img src="UI's/Semester-Home.png" width="200" />
+  <img src="UI's/Semester-Goals.png" width="200" />
+  <img src="UI's/Semester-History.png" width="200" />
+  <img src="UI's/Semester-Timer.png" width="200" />
 </div>
 
 ### Libraries and Dependencies
