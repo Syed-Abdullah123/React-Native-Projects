@@ -71,10 +71,11 @@ A project developed for a lab terminal assignment, showcasing:
 ## Screenshots
 
 ### BakingApp
-
-<img src="UI's/Baking1.png" width="200" />
-<img src="UI's/Baking2.png" width="200" />
-<img src="UI's/Baking3.png" width="200" />
+<div style="flex-direction: row">
+  <img src="UI's/Baking1.png" width="200" />
+  <img src="UI's/Baking2.png" width="200" />
+  <img src="UI's/Baking3.png" width="200" />
+</div>
 
 ### Calculator_app
 
