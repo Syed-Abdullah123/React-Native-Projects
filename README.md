@@ -89,9 +89,9 @@ A project developed for a lab terminal assignment, showcasing:
 ### NikeApp
 
 <div style="flex-direction: row, gap: 10">
-  <img src="UI's/Baking1.png" width="200" />
-  <img src="UI's/Baking2.png" width="200" />
-  <img src="UI's/Baking3.png" width="200" />
+  <img src="UI's/Nikeapp1.jpg" width="200" />
+  <img src="UI's/Nikeapp2.jpg" width="200" />
+  <img src="UI's/Nikeapp3.jpg" width="200" />
 </div>
 
 ### Basic E-commerce App UI
@@ -104,9 +104,11 @@ A project developed for a lab terminal assignment, showcasing:
 ### Expo Firebase Authentication
 
 <div style="flex-direction: row, gap: 10">
-  <img src="UI's/Baking1.png" width="200" />
-  <img src="UI's/Baking2.png" width="200" />
-  <img src="UI's/Baking3.png" width="200" />
+  <img src="UI's/firebase1.jpg" width="200" />
+  <img src="UI's/firebase2.jpg" width="200" />
+  <img src="UI's/firebase3.jpg" width="200" />
+  <img src="UI's/firebase4.jpg" width="200" />
+  <img src="UI's/firebase5.jpg" width="200" />
 </div>
 
 ### sp21-bcs-037_LAB_TERMINAL
