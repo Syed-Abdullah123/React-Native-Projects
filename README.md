@@ -94,7 +94,7 @@ A project developed for a lab terminal assignment:
 ## Libraries and Dependencies
 Below are the major libraries and dependencies used across different projects in this repository:
 
-`redux`: For state management.
+`redux`: For state management. :-
 `react-redux`: Official React bindings for Redux.
 `react-native-firebase`: For authentication and database services.
 `@react-navigation/native`: For handling navigation between screens.
