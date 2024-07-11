@@ -3,7 +3,10 @@ import { View, Text, StyleSheet, Button, TextInput } from "react-native";
 import { UserContext } from "./UserContext";
 import { FIREBASE_AUTH } from "../../firebaseConfig";
 import { signInWithEmailAndPassword } from "firebase/auth";
+<<<<<<< HEAD
 import { CommonActions } from "@react-navigation/native";
+=======
+>>>>>>> 01c3aaa5816a4442066af5f2a403ad51e3e04b8b
 
 export default function SignIn({ navigation }) {
   const [email, setEmail] = useState("");
@@ -22,12 +25,15 @@ export default function SignIn({ navigation }) {
       const user = userCredential.user;
       const username = user.displayName || "User";
       setUser({ username, email: user.email });
+<<<<<<< HEAD
       navigation.dispatch(
         CommonActions.reset({
           index: 0,
           routes: [{ name: "Home" }],
         })
       );
+=======
+>>>>>>> 01c3aaa5816a4442066af5f2a403ad51e3e04b8b
     } catch (error) {
       alert(error);
     } finally {

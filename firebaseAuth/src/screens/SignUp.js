@@ -24,6 +24,7 @@ export default function SignUp({ navigation }) {
         displayName: username,
       });
       setUser({ username, email: userCredential.user.email });
+<<<<<<< HEAD
       navigation.dispatch(
         CommonActions.reset({
           index: 0,
@@ -31,6 +32,8 @@ export default function SignUp({ navigation }) {
         })
       );
       // console.log(userCredential.user);
+=======
+>>>>>>> 01c3aaa5816a4442066af5f2a403ad51e3e04b8b
     } catch (error) {
       alert(error);
     } finally {
