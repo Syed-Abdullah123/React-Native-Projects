@@ -47,11 +47,13 @@ Once the application is up and running, you can browse through various Nike prod
 
 ## Screenshots
 
-Include some screenshots of your app here to give a visual overview. You can upload images to your repository and reference them like this:
+Below attached are the screenshots showing the Home or Products Screen, Product Details Screen, and the Cart Screen.
 
-![Home Screen](UI's/Nikeapp1.jpg)
-![Product Details](UI's/Nikeapp2.jpg)
-![Cart Screen](UI's/Nikeapp3.jpg)
+<div style="flex-direction: row, gap: 10">
+  <img src="/UI's/Baking1.png" width="200" />
+  <img src="/UI's/Baking2.png" width="200" />
+  <img src="/UI's/Baking3.png" width="200" />
+</div>
 
 ## Dependencies
 
