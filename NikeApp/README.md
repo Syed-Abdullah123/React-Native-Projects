@@ -170,4 +170,4 @@ This project would not have been possible without the guidance and tutorials pro
 
 ## License
 
-This project is completely free and is available for anyone to use. :)
+[MIT](https://choosealicense.com/licenses/mit/)
