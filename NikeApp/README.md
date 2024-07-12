@@ -49,8 +49,9 @@ Once the application is up and running, you can browse through various Nike prod
 
 Include some screenshots of your app here to give a visual overview. You can upload images to your repository and reference them like this:
 
-![Home Screen](./assets/screenshots/home.png)
-![Product Details](./assets/screenshots/product_details.png)
+![Home Screen](UI's/Nikeapp1.jpg)
+![Product Details](UI's/Nikeapp2.jpg)
+![Cart Screen](UI's/Nikeapp3.jpg)
 
 ## Dependencies
 
