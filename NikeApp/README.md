@@ -50,9 +50,9 @@ Once the application is up and running, you can browse through various Nike prod
 Below attached are the screenshots showing the Home or Products Screen, Product Details Screen, and the Cart Screen.
 
 <div style="flex-direction: row, gap: 10">
-  <img src="/UI's/Baking1.png" width="200" />
-  <img src="/UI's/Baking2.png" width="200" />
-  <img src="/UI's/Baking3.png" width="200" />
+  <img src="/UI's/Nikeapp1.jpg" width="200" />
+  <img src="/UI's/Nikeapp2.jpg" width="200" />
+  <img src="/UI's/Nikeapp3.jpg" width="200" />
 </div>
 
 ## Dependencies
