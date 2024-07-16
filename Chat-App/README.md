@@ -17,6 +17,21 @@ This is a basic chat app UI developed in React Native. The app includes several 
 - **Chat Users Screen**: Displays a list of users that can be clicked to initiate a chat.
 - **Chat Screen**: Allows users to send and receive messages.
 
+## Usage
+
+1. **Run the app** following the installation instructions.
+2. **Navigate** through the different screens to experience the basic chat app UI.
+3. **Click on any user** in the Chat Users screen to open a chat screen with that user.
+## Screenshots
+
+Below attached are the screenshots showing the app screens.
+
+<div style="flex-direction: row, gap: 10">
+  <img src="/UI's/Chat1.jpg" width="200" />
+  <img src="/UI's/Chat2.jpg" width="200" />
+  <img src="/UI's/Chat3.jpg" width="200" />
+  <img src="/UI's/Chat4.jpg" width="200" />
+</div>
 
 ## Installation
 
@@ -43,23 +58,6 @@ npx expo start //if you are using Expo Go app
 npx react-native run-android   # for Android
 npx react-native run-ios       # for iOS (only on macOS)
 ```
-
-## Usage
-
-1. **Run the app** following the installation instructions.
-2. **Navigate** through the different screens to experience the basic chat app UI.
-3. **Click on any user** in the Chat Users screen to open a chat screen with that user.
-## Screenshots
-
-Below attached are the screenshots showing the app screens.
-
-<div style="flex-direction: row, gap: 10">
-  <img src="/UI's/Chat1.jpg" width="200" />
-  <img src="/UI's/Chat2.jpg" width="200" />
-  <img src="/UI's/Chat3.jpg" width="200" />
-  <img src="/UI's/Chat4.jpg" width="200" />
-</div>
-
 
 ## License
 
