@@ -81,9 +81,10 @@ A project developed for a lab terminal assignment, showcasing:
 ### Calculator_app
 
 <div style="flex-direction: row, gap: 10">
-  <img src="UI's/Baking1.png" width="200" />
-  <img src="UI's/Baking2.png" width="200" />
-  <img src="UI's/Baking3.png" width="200" />
+  <img src="UI's/calculator1.jpeg" width="200" />
+  <img src="UI's/calculator2.jpeg" width="200" />
+  <img src="UI's/calculator3.jpeg" width="200" />
+  <img src="UI's/calculator4.jpeg" width="200" />
 </div>
 
 ### NikeApp

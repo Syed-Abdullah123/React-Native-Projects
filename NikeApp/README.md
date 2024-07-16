@@ -10,7 +10,6 @@ This project is a React Native application named "Nike App". It provides a sleek
 - [Screenshots](#screenshots)
 - [Dependencies](#dependencies)
 - [State Management](#state-management)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
 
@@ -48,10 +47,13 @@ Once the application is up and running, you can browse through various Nike prod
 
 ## Screenshots
 
-Include some screenshots of your app here to give a visual overview. You can upload images to your repository and reference them like this:
+Below attached are the screenshots showing the Home or Products Screen, Product Details Screen, and the Cart Screen.
 
-![Home Screen](./assets/screenshots/home.png)
-![Product Details](./assets/screenshots/product_details.png)
+<div style="flex-direction: row, gap: 10">
+  <img src="/UI's/Nikeapp1.jpg" width="200" />
+  <img src="/UI's/Nikeapp2.jpg" width="200" />
+  <img src="/UI's/Nikeapp3.jpg" width="200" />
+</div>
 
 ## Dependencies
 
@@ -159,10 +161,6 @@ The project uses `react-redux` for state management. Here is a brief overview of
     export default HomeScreen;
     ```
 
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions to improve this project, feel free to open an issue or submit a pull request.
-
 ## Acknowledgements
 
 This project would not have been possible without the guidance and tutorials provided by [notjust.dev](https://www.notjust.dev/). Check out their YouTube channel and website for more resources:
@@ -172,4 +170,4 @@ This project would not have been possible without the guidance and tutorials pro
 
 ## License
 
-This project is completely free and is available for anyone to use. :)
+[MIT](https://choosealicense.com/licenses/mit/)
