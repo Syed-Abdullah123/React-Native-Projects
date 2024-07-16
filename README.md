@@ -11,6 +11,7 @@ Welcome to my repository showcasing a collection of React Native applications, e
   - [UI's](#uis)
   - [Expo Firebase Authentication](#firebaseauth)
   - [sp21-bcs-037_LAB_TERMINAL](#sp21-bcs-037_lab_terminal)
+  - [Basic Chat App UI](#Chat-App) 
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Libraries and Dependencies](#libraries-and-dependencies)
@@ -68,6 +69,14 @@ A project developed for a lab terminal assignment, showcasing:
 - **UI Design**: Focuses on creating an intuitive and engaging user interface.
 - **Functionality**: Implements practical features as per assignment requirements.
 
+### Chat-App
+A basic user interface for a chat app, contains:
+
+- **Splash Screen**: Provides a brief loading screen with the app logo.
+- **Welcome Screen**: Greets the user with a welcome message.
+- **Chat Users Screen**: Displays a list of users that can be clicked to initiate a chat.
+- **Chat Screen**: Allows users to send and receive messages.
+
 ## Screenshots
 
 ### BakingApp
@@ -122,6 +131,15 @@ A project developed for a lab terminal assignment, showcasing:
   <img src="UI's/Semester-Goals.png" width="200" />
   <img src="UI's/Semester-History.png" width="200" />
   <img src="UI's/Semester-Timer.png" width="200" />
+</div>
+
+### Chat-App
+
+<div style="flex-direction: row, gap: 10">
+  <img src="UI's/Chat1.jpg" width="200" />
+  <img src="UI's/Chat2.jpg" width="200" />
+  <img src="UI's/Chat3.jpg" width="200" />
+  <img src="UI's/Chat4.jpg" width="200" />
 </div>
 
 ## Libraries and Dependencies
